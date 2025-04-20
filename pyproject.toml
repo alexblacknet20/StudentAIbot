@@ -1,0 +1,9 @@
+[project]
+name = "studentaibot"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.0",
+    "python-dotenv>=1.1.0",
+]
